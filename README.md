@@ -25,6 +25,6 @@ A simple Java Swing application for managing your daily tasks.
 
 - 
 
-Screenshots
+## Screenshots
 
 ---
